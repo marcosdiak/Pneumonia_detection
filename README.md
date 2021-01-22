@@ -1,8 +1,8 @@
 # Pneumonia detection
 
-```diff
+`
 I've created a high accuracy model using Machine Learning and neural networks to diagnose pneumonia reading chest X-ray images.
-```
+`
 
 ## Overview
 
