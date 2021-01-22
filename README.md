@@ -4,6 +4,9 @@ I've always been very keen into life-sciences and healthcare, so when I decided 
 
 This project is the result of pursuing that goal: I've created a high accuracy model using Machine Learning and neural networks to diagnose pneumonia reading chest X-ray images.
 
+`Neural networks (CNN)` | `tensorflow` | `keras` | `93% accuracy` | `0.98 recall`
+
+
 
 ## Overview
 
