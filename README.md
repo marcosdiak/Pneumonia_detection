@@ -1,8 +1,9 @@
 # Pneumonia detection
 
-`
-I've created a high accuracy model using Machine Learning and neural networks to diagnose pneumonia reading chest X-ray images.
-`
+I've always been very keen into life-sciences and healthcare, so when I decided to become a Data Scientist and discovered how powerful and useful Machine and Deep Learning could be, I started to think on creating something to help others. 
+
+This project is the result of pursuing that goal: I've created a high accuracy model using Machine Learning and neural networks to diagnose pneumonia reading chest X-ray images.
+
 
 ## Overview
 
@@ -13,7 +14,7 @@ I've created a high accuracy model using Machine Learning and neural networks to
 
 ## Data details
 
-Data downloaded from ([kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/metadata)).
+Data downloaded from [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/metadata).
 
 - 5,863 images.
 - 2 categories: PNEUMONIA, NORMAL.
